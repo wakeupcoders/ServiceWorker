@@ -25,10 +25,7 @@ this.addEventListener('install', function(event) {
                 // include any file you wish here.
                 'index.html',
                 'page_script.js',
-                'style.css',
-                '/images/set1.jpg',
-                '/images/set2.jpg',
-                '/images/set3.jpg'
+                'style.css'
             ]);
         })
     );
